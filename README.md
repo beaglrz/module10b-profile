@@ -9,4 +9,4 @@ This project demonstrates how to use React props and state to build an interacti
 - How to design interactive interfaces in React
 
 ## Screenshot
-(Add screenshot of your live app running with a toggled state)
+<img width="956" height="1032" alt="image" src="https://github.com/user-attachments/assets/cb02fd82-7b4f-444b-a386-590caebd05eb" />
