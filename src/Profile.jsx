@@ -1,3 +1,6 @@
+/*Beatriz Galarza
+Repo: https://github.com/beaglrz/module10b-profile*/ 
+
 import { useState } from 'react';
 
 function Profile({ name, occupation, funFact, extraDetail }) {
